@@ -1,3 +1,5 @@
+ <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=kayvaibhav.kayvaibhav">
+
 <h1 align="center"> 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=35&color=DC1E77&lines=Hello%2C+there!+👋;This+is+Kumar+Vaibhav+....+....;Nice+to+meet+you!)](https://www.linkedin.com/in/kayvaibhav/)
