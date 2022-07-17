@@ -1,6 +1,5 @@
  <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=kayvaibhav.kayvaibhav">
-
-
+ 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&size=35&color=F7961D&width=500&lines=Hello%2C+there!+%F0%9F%91%8B;This+is+Kumar+Vaibhav....;Nice+to+meet+you!)](https://git.io/typing-svg)
 
@@ -8,8 +7,9 @@
 
 <p align="center"> A pre-final year student pursuing Bachelors in Computer Science and Engineering, from KIET Group of Institutions. I am an AR/VR enthusiast, Web developer, and a Photographer.
 <p>
-
-## My Skill Stack...
+<br>
+ 
+<h2> My Skill Stack...</h2> 
 <br>
 <p align="center"> 
 <a href="https://docs.oracle.com/en/java/" target="blank"><img align="center" src="https://img.icons8.com/dusk/452/java-coffee-cup-logo.png" alt="JAVA" height="65" width="65" /></a> &nbsp;&nbsp;&nbsp; 
@@ -49,11 +49,14 @@
 <p  align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=kayvaibhav&show_icons=true&theme=calm" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=kayvaibhav&theme=calm" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kayvaibhav&show_icons=true&locale=en&layout=compact&theme=calm" alt="kayvaibhav" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kayvaibhav&show_icons=true&locale=en&layout=compact&theme=calm" alt="kayvaibhav" /> 
+</p> 
 
-</p>
-  
-<br><br>
+ ---
+ 
+ [![Kumar's github activity graph](https://activity-graph.herokuapp.com/graph?username=kayvaibhav&bg_color=373f51&color=ebcfb2&line=ecae49&point=c5705d&area=true&hide_border=false&radius=7)](https://github.com/ashutosh00710/github-readme-activity-graph)
+ 
+ 
  
 <hr>
 <h2 align="center">Connect with me:</h2>
