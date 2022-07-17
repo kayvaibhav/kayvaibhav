@@ -1,9 +1,9 @@
-### Hi there 👋
+<h1 align="center"> 
 
-<!--
-**kayvaibhav/kayvaibhav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=35&color=DC1E77&lines=Hello%2C+there!+👋;This+is+Kumar+Vaibhav+....;Nice+to+meet+you!)](https://www.linkedin.com/in/kayvaibhav/)
+</h1>
+<p align="center">A pre-final year student pursuing Bachelors in Computer Science and Engineering, from KIET Group of Institutions. I am an AR/VR enthusiast, Web developer, and a Photographer.
+<p>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
