@@ -56,9 +56,14 @@
  
  [![Kumar's github activity graph](https://activity-graph.herokuapp.com/graph?username=kayvaibhav&bg_color=373f51&color=ebcfb2&line=ecae49&point=c5705d&area=true&hide_border=false&radius=7)](https://github.com/ashutosh00710/github-readme-activity-graph)
  
+---
  
+<p align="center">
+  <img src="https://github.com/kayvaibhav/kayvaibhav/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</p> 
  
-<hr>
+--- 
+ 
 <h2 align="center">Connect with me:</h2>
 <p align="center">
 <a href="https://twitter.com/kayvaibhav" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/twitter.png" alt="kayvaibhav" height="70" width="70" /></a> &nbsp;&nbsp;&nbsp;
