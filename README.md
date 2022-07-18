@@ -55,9 +55,9 @@
  ---
  
  [![Kumar's github activity graph](https://activity-graph.herokuapp.com/graph?username=kayvaibhav&bg_color=373f51&color=ebcfb2&line=ecae49&point=c5705d&area=true&hide_border=false&radius=7)](https://github.com/ashutosh00710/github-readme-activity-graph)
- 
----
- 
+ ---
+   
+<h2 align="center">Snake eating my contribution... 🐍:</h2>
 <p align="center">
   <img src="https://github.com/kayvaibhav/kayvaibhav/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p> 
