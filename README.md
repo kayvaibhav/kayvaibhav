@@ -5,11 +5,11 @@
 
 ---
 
-<p align="center"> A pre-final year student pursuing Bachelors in Computer Science and Engineering, from KIET Group of Institutions. I am an AR/VR enthusiast, Web developer, and a Photographer.
+<p align="center"> A pre-final year student pursuing Bachelors in Computer Science and Engineering, from KIET Group of Institutions. I am an AR/VR/XR Developer, Product Design Researcher, and a Photographer.
 <p>
 <br>
  
-<h2> My Skill Stack...</h2> 
+<h2> Skills Acquired...</h2> 
 <br>
 <p align="center"> 
  <a href=" " target="blank"><img align="center" src="https://img.icons8.com/dusk/452/unity.png" alt="Unity" height="65" width="65" /></a> &nbsp;&nbsp;&nbsp;
@@ -57,7 +57,7 @@
  [![Kumar's github activity graph](https://activity-graph.herokuapp.com/graph?username=kayvaibhav&bg_color=373f51&color=ebcfb2&line=ecae49&point=c5705d&area=true&hide_border=false&radius=7)](https://github.com/ashutosh00710/github-readme-activity-graph)
  ---
    
-<h2 align="center">Snake eating my contribution... 🐍:</h2>
+<h2 align="center">Some Contribution... 🐍:</h2>
 <p align="center">
   <img src="https://github.com/kayvaibhav/kayvaibhav/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p> 
@@ -72,7 +72,7 @@
 <a href="https://dribbble.com/kayvaibhav" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/344/dribbble.png" alt="kayvaibhav" height="70" width="70" /></a>
 </p>
 
-- 📫 Reach me at : **kumar.1923cs1075@kiet.edu**
+<!-- - 📫 Reach me at : **kumar.1923cs1075@kiet.edu** -->
 
 <hr>
 <div align="right">
