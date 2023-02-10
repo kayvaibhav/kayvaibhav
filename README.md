@@ -5,7 +5,7 @@
 
 ---
 
-<p align="center"> A senior year undergrad pursuing Bachelors in Computer Science and Engineering. I am an AR/VR/XR Developer, Product Design Researcher, and a Photographer.
+<p align="center"> A senior year undergrad pursuing Bachelors in Computer Science and Engineering. I am an XR Developer, Product Design Researcher, and a Photographer.
 <p>
 <br>
  
