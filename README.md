@@ -1,11 +1,11 @@
  <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=kayvaibhav.kayvaibhav">
  
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&size=35&color=F7961D&width=500&lines=Hello%2C+there!+%F0%9F%91%8B;This+is+Kumar+Vaibhav....;Nice+to+meet+you!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&size=35&color=D1755D81&width=500&lines=Hello%2C+there!+%F0%9F%91%8B;This+is+Kumar+Vaibhav....;Nice+to+meet+you!)](https://git.io/typing-svg)
 
 ---
 
-<p align="center"> A senior year undergrad pursuing Bachelors in Computer Science and Engineering. I am an XR Developer, Product Design Researcher, and a Photographer.
+<p align="center"> I'm an XR Developer, Product Design Researcher, and a Photographer. Completed my Bachelor of Technology majoring in Computer Science and Engineering.
 <p>
 <br>
  
@@ -54,15 +54,15 @@
 
  ---
  
- [![Kumar's github activity graph](https://activity-graph.herokuapp.com/graph?username=kayvaibhav&bg_color=373f51&color=ebcfb2&line=ecae49&point=c5705d&area=true&hide_border=false&radius=7)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<!--- [![Kumar's github activity graph](https://activity-graph.herokuapp.com/graph?username=kayvaibhav&bg_color=373f51&color=ebcfb2&line=ecae49&point=c5705d&area=true&hide_border=false&radius=7)](https://github.com/ashutosh00710/github-readme-activity-graph)
  ---
    
 <h2 align="center">Some Contribution... 🐍:</h2>
 <p align="center">
-  <img src="https://github.com/kayvaibhav/kayvaibhav/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+ <img src="https://github.com/kayvaibhav/kayvaibhav/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p> 
  
---- 
+--- --->
  
 <h2 align="center">Connect with me:</h2>
 <p align="center">
